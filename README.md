@@ -110,7 +110,7 @@ The system processes a traffic video and produces:
 
 ---
 
-## 📸 Sample Output
+## 📸 Modeel Structures 
 
 <p align="center">
   <img src="data/Picture1.png" width="600">
