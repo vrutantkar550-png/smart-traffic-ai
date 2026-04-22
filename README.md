@@ -88,7 +88,7 @@ cd smart-traffic-ai
 ## 📸 Model Structures 
 
 <p align="center">
-  <img src="data/Picture1.png" width="600">
+  <img src="data/Picture1.png" width="800">
 </p>
 
 ---
