@@ -1,4 +1,4 @@
-# 🚦 Smart Traffic Signal Control using AI (YOLOv5)
+# 🚦 Smart Traffic Signal Control using AI
 
 ## 📌 Project Overview
 
@@ -85,6 +85,15 @@ git clone https://github.com/your-username/smart-traffic-ai.git
 cd smart-traffic-ai
 ```
 
+## 📸 Modeel Structures 
+
+<p align="center">
+  <img src="data/Picture1.png" width="600">
+</p>
+
+---
+
+
 ### 🔹 Step 2: Install Dependencies
 
 ```
@@ -107,14 +116,6 @@ The system processes a traffic video and produces:
 * 🚗 Bounding boxes around detected vehicles
 * 🔢 Real-time vehicle count
 * 🚦 Dynamic signal timing displayed on screen
-
----
-
-## 📸 Modeel Structures 
-
-<p align="center">
-  <img src="data/Picture1.png" width="600">
-</p>
 
 ---
 
@@ -166,8 +167,8 @@ The system processes a traffic video and produces:
 
 ## 👨‍💻 Author
 
-**Your Name**
-Final Year Engineering Project
+**VRUTANT KAR**
+Third Year Engineering Project
 
 ---
 
