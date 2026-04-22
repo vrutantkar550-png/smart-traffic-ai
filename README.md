@@ -113,7 +113,7 @@ The system processes a traffic video and produces:
 ## 📸 Sample Output
 
 <p align="center">
-  <img src="images/output.png" width="600">
+  <img src="data/Picture1.png" width="600">
 </p>
 
 ---
