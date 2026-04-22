@@ -119,6 +119,14 @@ The system processes a traffic video and produces:
 
 ---
 
+## 📸 Modeel Structures 
+
+<p align="center">
+  <img src="data/result1.png" width="800">
+</p>
+
+---
+
 ## 🧮 Traffic Signal Logic
 
 | Vehicle Count | Signal Time |
