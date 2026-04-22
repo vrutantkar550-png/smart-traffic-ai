@@ -85,7 +85,7 @@ git clone https://github.com/your-username/smart-traffic-ai.git
 cd smart-traffic-ai
 ```
 
-## 📸 Modeel Structures 
+## 📸 Model Structures 
 
 <p align="center">
   <img src="data/Picture1.png" width="600">
