@@ -119,7 +119,7 @@ The system processes a traffic video and produces:
 
 ---
 
-## 📸 Modeel Structures 
+## 📸 Model Structures 
 
 <p align="center">
   <img src="data/result1.png" width="800">
